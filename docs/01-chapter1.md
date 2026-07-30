@@ -183,3 +183,19 @@ Sabremos que funcionó cuando la tasa de completitud de tareas de squad supere e
 
 #### 1.2.2.4. Lean UX Canvas
 ![lean-ux-canvas](../assets/lean-ux-canvas.jpg)
+
+## 1.3. Segmentos objetivo
+
+### Segmento 1: Individuos autodisciplinados (estudiantes universitarios y jóvenes profesionales)
+
+El segmento primario de Strivr está compuesto por estudiantes universitarios y jóvenes profesionales de entre 18 y 29 años, de nivel socioeconómico B y C, concentrados principalmente en Lima Metropolitana y otras ciudades con alta concentración de instituciones de educación superior.
+
+En cuanto al tamaño del mercado, Sunedu registra 1.2 millones de estudiantes matriculados en universidades licenciadas a nivel nacional, de los cuales aproximadamente 578,000 corresponden a Lima Metropolitana, repartidos entre 35 universidades licenciadas en la capital de un total de 97 a nivel nacional (La República, 2025). A esto se suma la población de jóvenes profesionales recién egresados, en un contexto donde el 12.52% de la población peruana ya cuenta con educación superior universitaria completa (Senaju, 2024).
+
+Este segmento se caracteriza por una conectividad prácticamente universal: el 95.8% de los peruanos de 19 a 24 años accedió a internet en el tercer trimestre de 2025, cifra que se sostiene en 94.2% para el grupo de 25 a 40 años, y el 99.2% de quienes cuentan con educación superior universitaria usa teléfono celular, frente a solo 81.8% entre quienes completaron únicamente educación primaria (Infobae, 2026). Es, por tanto, un segmento nativo digital sin barreras de acceso tecnológico. Sin embargo, es también el segmento más propenso al abandono temprano de herramientas de autodisciplina: una revisión sistemática de 18 estudios con más de 500,000 participantes encontró que una mediana del 70% de los usuarios discontinúa el uso de apps de hábitos y bienestar dentro de los primeros 100 días (Kidman et al., 2024), lo que evidencia la necesidad de mecánicas de retención más fuertes que las que ofrecen las herramientas actuales.
+
+### Segmento 2: Equipos con trabajo colaborativo activo (grupos de proyecto y squads)
+
+El segmento secundario está conformado por equipos pequeños, de entre 3 y 8 integrantes, que ya coordinan un trabajo compartido antes de considerar una herramienta como Strivr: grupos de proyecto de cursos universitarios con entregables grupales obligatorios (como los que exigen las carreras de Ingeniería de Software y afines), cohortes de bootcamps de programación, y squads de trabajo en etapas tempranas. Comparten el mismo rango etario y nivel socioeconómico del Segmento 1 —de hecho, se extraen de la misma base de aproximadamente 578,000 estudiantes universitarios de Lima Metropolitana (La República, 2025)—, ya que gran parte de las carreras de ingeniería en el Perú incorporan formalmente el trabajo en equipo bajo metodologías ágiles (sprints, tableros Kanban, entregas por hitos) como parte de su malla curricular.
+
+A diferencia del Segmento 1, su necesidad no nace de sostener un hábito personal sino de coordinar una tarea que ya involucra a otras personas. Actualmente resuelven esta coordinación con herramientas genéricas y no gamificadas —WhatsApp para la comunicación, hojas de cálculo para el seguimiento de tareas, o tableros Kanban sin ningún sistema de recompensa—, lo que limita tanto la trazabilidad del aporte individual como la motivación sostenida del equipo a lo largo de un proyecto de varias semanas.
