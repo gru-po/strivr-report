@@ -6,7 +6,7 @@ Nuestro servicio ofrece una plataforma web de gamificación de la disciplina per
 
 Nuestro servicio ofrece una plataforma web de gamificación de la disciplina personal orientada a convertir metas individuales y grupales —hábitos, estudio, entrenamiento físico, desarrollo de habilidades técnicas— en quests medibles con progresión de experiencia (XP), niveles y rangos de largo plazo, dirigida inicialmente a estudiantes universitarios y jóvenes profesionales que intentan sostener hábitos de autodisciplina, así como a equipos pequeños (grupos de estudio, squads de proyecto) que buscan reforzar la constancia colectiva mediante competencia social y coordinación gamificada del trabajo en equipo.
 
-Hemos observado que, al intentar sostener una meta por cuenta propia, los usuarios enfrentan un abandono sistemático: la industria de apps de seguimiento de hábitos reporta que cerca del 43% de los usuarios abandona su aplicación principal dentro de los primeros 30 días, y hasta un 72% se desconecta dentro de los 90 días (Dataintelo, 2026). Esta deserción se agrava porque las herramientas tradicionales dependen del honor del propio usuario para marcar algo como completado, sin verificación externa, y no ofrecen refuerzo social competitivo más allá de una racha individual que se rompe de forma silenciosa y sin consecuencia visible para nadie más. Por otro lado, cuando estas mismas personas necesitan coordinar una meta en equipo (un proyecto académico, un reto grupal), recurren a herramientas completamente distintas y no gamificadas (hojas de cálculo, tableros Kanban genéricos, chats de WhatsApp), duplicando el esfuerzo de seguimiento. Esta situación evidencia una brecha entre el estado actual —seguimiento solitario, autodeclarado, sin verificación, y desconectado del trabajo en equipo— y un estado ideal en el que el progreso individual y grupal se valida de forma confiable, se comparte con una comunidad que genera presión social positiva, y se sostiene mediante mecánicas de juego diseñadas específicamente para el largo plazo, con una retención de día 30 muy por encima del 5% promedio de la industria (Forasoft, 2026).
+Hemos observado que, al intentar sostener una meta por cuenta propia, los usuarios enfrentan un abandono sistemático: una revisión sistemática de 18 estudios con más de 500,000 participantes encontró que una mediana del 70% de los usuarios discontinúa el uso de este tipo de apps dentro de los primeros 100 días (Kidman et al., 2024). Esta deserción se agrava porque las herramientas tradicionales dependen del honor del propio usuario para marcar algo como completado, sin verificación externa, y no ofrecen refuerzo social competitivo más allá de una racha individual que se rompe de forma silenciosa y sin consecuencia visible para nadie más. Por otro lado, cuando estas mismas personas necesitan coordinar una meta en equipo (un proyecto académico, un reto grupal), recurren a herramientas completamente distintas y no gamificadas (hojas de cálculo, tableros Kanban genéricos, chats de WhatsApp), duplicando el esfuerzo de seguimiento. Esta situación evidencia una brecha entre el estado actual —seguimiento solitario, autodeclarado, sin verificación, y desconectado del trabajo en equipo— y un estado ideal en el que el progreso individual y grupal se valida de forma confiable, se comparte con una comunidad que genera presión social positiva, y se sostiene mediante mecánicas de juego diseñadas específicamente para el largo plazo, con una retención de día 30 muy por encima del 5% promedio de la industria (Forasoft, 2026).
 
 ¿De qué manera podríamos convertir el seguimiento de metas personales y grupales en una experiencia gamificada, verificada en servidor y socialmente competitiva, que sostenga la motivación de los usuarios más allá de la caída natural de las primeras semanas, y que además permita a equipos pequeños coordinar y gamificar su propio trabajo colaborativo?
 
@@ -15,7 +15,7 @@ Hemos observado que, al intentar sostener una meta por cuenta propia, los usuari
 ##### Preguntas sobre el Producto / Usuario (User Assumptions)
 
 ###### ¿Quién es el usuario?
-Nuestros usuarios primarios son estudiantes universitarios y jóvenes profesionales (18-30 años) que buscan sostener hábitos personales —estudio, fitness, aprendizaje técnico— y disfrutan de mecánicas de videojuego. Un segundo perfil dentro de la misma base son los líderes de squad o coordinadores de proyecto, que necesitan asignar y dar seguimiento a tareas de un equipo pequeño. De forma indirecta, impactamos a los moderadores de comunidad que sostienen los foros temáticos.
+Nuestros usuarios se dividen en dos segmentos, diferenciados no por edad u ocupación sino por el trabajo que llegan a resolver. El Segmento 1 son individuos autodisciplinados —estudiantes universitarios y jóvenes profesionales (18-30 años)— que buscan sostener una meta personal por su cuenta (hábito, estudio, fitness) y disfrutan de mecánicas de videojuego. El Segmento 2 son equipos con trabajo colaborativo activo —un grupo de proyecto académico, una cohorte de bootcamp, un squad ya existente— que necesitan coordinar tareas compartidas y llegan buscando reemplazar una herramienta no gamificada (WhatsApp, hojas de cálculo, Kanban tradicional). Una misma persona puede pertenecer a ambos segmentos en momentos distintos, según qué trabajo esté resolviendo en ese momento. De forma indirecta, impactamos también a los moderadores de comunidad que sostienen los foros temáticos.
 
 - El usuario individual usará el sistema para asumir quests, registrar hábitos, retar a otros en duelos y progresar en su nivel y rango.
 - El líder de squad lo usará para crear proyectos, repartir tareas en el tablero y revisar el grafo de dependencias del equipo.
@@ -152,7 +152,7 @@ Un periodo de gracia de reconexión con reincorporación al estado vigente del d
 Creemos que si el sistema valida cada quest y duelo siempre en el servidor —sin aceptar nunca el XP declarado por el cliente— aumentaremos la confianza del usuario en la equidad del sistema competitivo, reduciendo el abandono temprano típico de la categoría.
 
 **Métrica:**
-Sabremos que funcionó cuando la retención a 30 días de los primeros usuarios supere en al menos 10 puntos porcentuales el 57% promedio reportado para apps de seguimiento de hábitos (43% de abandono en 30 días), durante el primer trimestre desde el lanzamiento.
+Sabremos que funcionó cuando la retención a 30 días de los primeros usuarios alcance al menos el 15%, frente al 5% promedio de la industria (Fora Soft, 2026).
 
 ---
 
@@ -170,7 +170,7 @@ Sabremos que esto funcionó cuando el porcentaje de usuarios activos que partici
 Creemos que si introducimos un sistema de rangos de progresión de largo plazo, independiente del nivel diario, reduciremos el abandono asociado a la pérdida de una sola racha.
 
 **Métrica:**
-Sabremos que funcionó cuando la retención a 90 días supere en al menos 15 puntos porcentuales el 28% promedio de la categoría de hábitos (72% de abandono a 90 días).
+Sabremos que funcionó cuando la retención a 100 días supere el 30% promedio de la industria (70% de abandono a 100 días, Kidman et al., 2024), alcanzando al menos un 40%.
 
 ---
 
@@ -182,5 +182,4 @@ Creemos que si damos a los squads un tablero de proyecto gamificado con grafo de
 Sabremos que funcionó cuando la tasa de completitud de tareas de squad supere el **70%** dentro de las primeras cuatro semanas de vida de cada squad.
 
 #### 1.2.2.4. Lean UX Canvas
-
-<!-- TODO: Incorporar la captura del Lean UX Canvas elaborado en UXPressia, construido a partir de los Problem Statements, Assumptions e Hypothesis Statements de esta sección. -->
+![lean-ux-canvas](../assets/lean-ux-canvas.jpg)
