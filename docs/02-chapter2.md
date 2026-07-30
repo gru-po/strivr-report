@@ -424,3 +424,16 @@ La siguiente matriz verifica que cada campo requerido para la construcción de l
 | Frustraciones | S1-P22.2, S1-P23, S1-P24, S1-P25 | S2-P24, S2-P26, S2-P27, S2-P28 |
 | Prácticas y herramientas actuales | S1-P20, S1-P21, S1-P22 | S2-P20, S2-P21, S2-P22, S2-P23, S2-P25 |
 | Motivación social y reconocimiento | S1-P26, S1-P27, S1-P28 | S2-P29, S2-P31 |
+
+## 2.3. Needfinding
+### 2.3.1. User Personas
+
+A partir del análisis de las entrevistas realizadas a representantes de cada segmento (sección 2.2) y del análisis competitivo frente a Habitica, SuperBetter y StickK para la disciplina individual, y frente a herramientas de gestión de proyectos no gamificadas como Jira, ClickUp y Trello para la coordinación de equipo (sección 2.1), se construyó un arquetipo de usuario por cada uno de los dos segmentos objetivo identificados en la sección 1.3. El primer arquetipo, Mateo Sánchez Rivas, representa al segmento de Retadores individuales: usuarios que buscan sostener una meta personal por su cuenta y que hoy abandonan las herramientas de hábitos existentes por falta de verificación externa y de competencia social real. El segundo arquetipo, Valentina Cruz Ortega, representa al segmento de Squads colaborativos: equipos pequeños que ya coordinan un trabajo compartido y que hoy recurren a herramientas genéricas y no gamificadas para hacerlo. Ambas fichas siguen la estructura estándar de un User Persona —background, motivations, frustrations, goals, quote, skills, brands and influencers y market size— elaboradas en UXPressia, y sustentan las decisiones de diseño e información de arquitectura que se desarrollan en el Capítulo IV.
+
+#### Segmento 1: Individuos autodisciplinados
+
+![user-persona-1](../assets/user-persona-1.png)
+
+#### Segmento 2: Equipos de trabajo colaborativo activo
+
+![user-persona-2](../assets/user-persona-2.png)
