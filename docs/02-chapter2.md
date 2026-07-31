@@ -437,3 +437,28 @@ A partir del análisis de las entrevistas realizadas a representantes de cada se
 #### Segmento 2: Equipos de trabajo colaborativo activo
 
 ![user-persona-2](../assets/user-persona-2.png)
+
+### 2.3.2. User Task Matrix
+
+Esta sección presenta el User Task Matrix, construido a partir de los dos User Persona que representan a los segmentos objetivo definidos en la sección 1.3: **Mateo Sánchez Rivas**, representante del segmento de Retadores individuales, y **Valentina Cruz Ortega**, representante del segmento de Squads colaborativos. Las tareas listadas a continuación corresponden a comportamientos que ambos segmentos ya realizan en su vida cotidiana con independencia de la existencia de Strivr —sostener hábitos, aprender por cuenta propia, coordinar un equipo—, y no a funcionalidades u opciones que el producto vaya a ofrecer.
+
+| Task | Mateo Sánchez Rivas — Frecuencia | Mateo Sánchez Rivas — Importancia | Valentina Cruz Ortega — Frecuencia | Valentina Cruz Ortega — Importancia |
+| --- | --- | --- | --- | --- |
+| Sostener un hábito personal de forma constante (estudio, ejercicio, lectura) | Alta | Alta | Media | Media |
+| Aprender una habilidad nueva por cuenta propia (autodidacta) | Alta | Media | Media | Baja |
+| Competir o compararse con otras personas para mantenerse motivado | Alta | Alta | Baja | Baja |
+| Rendir cuentas de su propio progreso ante alguien más | Media | Alta | Media | Media |
+| Registrar o llevar un historial de su propio avance | Alta | Media | Media | Baja |
+| Buscar reconocimiento social por logros personales alcanzados | Media | Media | Baja | Baja |
+| Coordinar las tareas de un proyecto con un grupo de personas | Media | Baja | Alta | Alta |
+| Repartir o asignar responsabilidades entre los miembros de un equipo | Baja | Baja | Alta | Alta |
+| Dar seguimiento al avance de las tareas de otras personas del equipo | Baja | Baja | Alta | Alta |
+| Identificar qué está bloqueando el avance de un proyecto grupal | Baja | Baja | Alta | Alta |
+| Motivar a otros miembros de un equipo a mantener el ritmo de trabajo | Baja | Baja | Alta | Media |
+| Resolver conflictos de coordinación dentro de un equipo de trabajo | Baja | Baja | Media | Alta |
+
+Las tareas con mayor frecuencia e importancia combinadas son **sostener un hábito personal de forma constante** y **competir o compararse con otros para mantenerse motivado** para Mateo, y **coordinar las tareas de un proyecto grupal**, **repartir responsabilidades** e **identificar bloqueos del avance** para Valentina — estas cuatro tareas concentran el mayor valor potencial para cada persona y son, en consecuencia, las que más deberían dirigir las decisiones de diseño de sus respectivos flujos.
+
+La principal diferencia entre ambos User Persona es el objeto de la tarea: todo lo que Mateo hace con alta frecuencia e importancia ocurre **en solitario y sobre sí mismo** (su propio hábito, su propio aprendizaje, su propia comparación social), mientras que todo lo que hace Valentina con alta frecuencia e importancia ocurre **sobre el trabajo de otras personas** (coordinar, repartir, dar seguimiento, resolver conflictos). Esto confirma que la segmentación definida en la sección 1.3 no distingue por demografía sino por el tipo de trabajo a resolver, tal como se justificó en el Lean UX Process.
+
+La principal coincidencia es que ambos comparten, aunque con distinta intensidad, la necesidad de **rendir cuentas de su propio progreso ante alguien más**: para Mateo es un mecanismo para sostener su disciplina individual (validación externa de que sí cumplió); para Valentina es una consecuencia natural de coordinar un equipo (ella también debe reportar su propio avance dentro del grupo). Esta tarea compartida —aunque con matices distintos— es la que justifica que ambos segmentos puedan convivir dentro de una misma plataforma en lugar de requerir dos productos separados.
