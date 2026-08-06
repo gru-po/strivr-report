@@ -35,7 +35,7 @@ u20241d317 - Atoche Gonzales, Nicolas Fernando
 u202411310 - Azama Fukuda, Juan Pablo 
 u202413214 - Luciana Carolina Mechan Montenegro 
 u202414928 - Alvaro Sebastian Fernanadez Linares 
-u202410344 - Arturo Contreras
+u202414802 - Contreras Torres, Arturo Valentino 
 u2024XXXXX - Rodrigo Lopez Monroy
 ---
 
